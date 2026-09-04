@@ -10,7 +10,7 @@ MSc Business Analytics, Queen's University Belfast (expected Sep 2026) · 10+ ye
 
 I bring a decade of hands-on experience with large-scale transactional data in banking, mortgage and insurance systems, now paired with an MSc in Business Analytics and applied machine learning. This repository collects my academic and industry analytics projects — from imbalanced classification on 500k+ records to live Power BI dashboards built for an industry partner.
 
-My dissertation applies machine learning to **fraud detection in high-volume transactional systems**, evaluating supervised and unsupervised approaches under severe class imbalance with a focus on explainability and practical adoption.
+My dissertation applies machine learning to **Cost-Sensitive Machine Learning for Fraud Detection in High-Volume Transactional Systems: A Comparative and Explainable Approach**, evaluating supervised and unsupervised approaches under severe class imbalance with a focus on explainability and practical adoption.
 
 ## Projects
 
