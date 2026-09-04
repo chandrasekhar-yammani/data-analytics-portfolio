@@ -2,7 +2,7 @@
 
 MSc Business Analytics, Queen's University Belfast (expected Sep 2026) · 10+ years enterprise financial-services experience (mainframe/transactional systems) transitioning into Data & Business Analyst roles in the UK.
 
-**Contact:** chandrasekhar550@gmail.com · [LinkedIn](https://www.linkedin.com/in/chandra-sekhar-yammani-27b1494b/) · Belfast, UK
+**Contact:** cyammani01@qub.ac.uk · [LinkedIn](https://www.linkedin.com/in/chandra-sekhar-yammani-27b1494b/) · Belfast, UK
 
 ---
 
