@@ -4,7 +4,11 @@
 **Dataset:** 23,171 airline reviews
 
 ## Problem
+
+**Business problem: Which service factors most influence whether a customer recommends the airline, and where should operational investment go?**
 Predict whether a customer would recommend an airline based on structured ratings and the text of their review, and identify what drives that recommendation.
+
+**Capabilities demonstrated:** Text & sentiment analytics · Feature engineering · Business recommendations from text data
 
 ## Approach (CRISP-DM)
 1. **Business understanding:** identify drivers of customer recommendation for airline service improvement.
@@ -63,3 +67,5 @@ Combining numerical ratings with text-derived sentiment features improved predic
 - `airline_review_analysis.ipynb` — full analysis notebook
 
 *MSc Business Analytics, Queen's University Belfast*
+
+
