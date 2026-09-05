@@ -5,7 +5,11 @@
 
 ## Problem
 
+**Business problem: How do you build a reliable detection model when the event of interest occurs in under 2% of cases — the same challenge as fraud or churn detection?**
+
 Predicting a rare positive-class outcome ("high performers") in a dataset where only 1.6% of records are positive — a class-imbalance problem structurally identical to fraud detection, churn prediction, and other rare-event business problems.
+
+**Capabilities demonstrated:** Class-imbalance handling · Threshold tuning · Model evaluation beyond accuracy
 
 ## Approach
 
@@ -42,3 +46,5 @@ Standard accuracy is a misleading metric under 1.6% class imbalance — the weig
 - `model-comparison.png` — model performance comparison
 
 *MSc Business Analytics, Queen's University Belfast — Statistics for Business module*
+
+
