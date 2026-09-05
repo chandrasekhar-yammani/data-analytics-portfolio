@@ -4,7 +4,11 @@
 **Dataset:** 40,966 telemarketing records, 29 variables
 
 ## Problem
+
+**Business problem: Which customers should a bank prioritise in future term-deposit campaigns to improve conversion and reduce wasted contact?**
 Predict whether a bank customer will subscribe to a term deposit following a telemarketing campaign, and identify the strongest drivers of a positive response.
+
+**Capabilities demonstrated:** Customer analytics · Odds-ratio interpretation · Campaign targeting insight
 
 ## Approach
 1. Feature engineering on campaign, behavioural, product-holding and macroeconomic variables.
@@ -61,3 +65,5 @@ A customer's existing relationship with the bank (products held, prior response)
 - `roc-curve.png` — ROC curve for final model
 
 *MSc Business Analytics, Queen's University Belfast*
+
+
