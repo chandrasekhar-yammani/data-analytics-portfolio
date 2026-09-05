@@ -26,11 +26,11 @@ Identify the key drivers of employee attrition and translate them into actionabl
 
 ## Business Implications
 The predictive modelling results have clear implications:
-•	Retention strategies should prioritise Laboratory Technicians, Research Scientists, Sales Representatives, and Sales Executives, especially when overtime is high or bonuses are absent.
-•	Overtime management is critical in technical/sales functions to prevent burnout.
-•	Reward structures must ensure bonuses are distributed fairly, as they act as a strong retention mechanism.
-•	Role specific strategies are required: attrition drivers differ between technical/sales and managerial/HR roles.
-•	Model choice: Use Decision Tree rules for HR communication and policy design, while deploying Random Forest/GBM for forecasting attrition risk at scale.
+1. **Retention strategies** should prioritise Laboratory Technicians, Research Scientists, Sales Representatives, and Sales Executives, especially when overtime is high or bonuses are absent.
+2. 	**Overtime management** is critical in technical/sales functions to prevent burnout.
+3. 	**Reward structures** must ensure bonuses are distributed fairly, as they act as a strong retention mechanism.
+4. _Role specific strategies are required_: attrition drivers differ between technical/sales and managerial/HR roles.
+5. **Model choice: ** Use Decision Tree rules for HR communication and policy design, while deploying Random Forest/GBM for forecasting attrition risk at scale.
 
 
 ## Key Takeaway
