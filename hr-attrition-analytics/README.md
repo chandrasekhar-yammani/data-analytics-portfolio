@@ -24,6 +24,15 @@ Identify the key drivers of employee attrition and translate them into actionabl
 ![Tableau dashboard](tableau-dashboard.png)
 ![Model comparison](model-comparison.png)
 
+## Business Implications
+The predictive modelling results have clear implications:
+•	Retention strategies should prioritise Laboratory Technicians, Research Scientists, Sales Representatives, and Sales Executives, especially when overtime is high or bonuses are absent.
+•	Overtime management is critical in technical/sales functions to prevent burnout.
+•	Reward structures must ensure bonuses are distributed fairly, as they act as a strong retention mechanism.
+•	Role specific strategies are required: attrition drivers differ between technical/sales and managerial/HR roles.
+•	Model choice: Use Decision Tree rules for HR communication and policy design, while deploying Random Forest/GBM for forecasting attrition risk at scale.
+
+
 ## Key Takeaway
 Equal-sampling correction improved class balance but reduced overall accuracy and precision compared to the natural train/test split, showing the trade-off between balancing classes and preserving real-world predictive reliability. Gradient Boosting delivered the strongest and most consistent performance across every metric, including Cohen's Kappa — the metric least inflated by class imbalance — making it the most trustworthy model for identifying at-risk employees. Beyond model accuracy, the real value was translating these statistical drivers of attrition into a business-facing Tableau dashboard and a set of prioritised, costed retention actions — the step that turns an analytical model into a decision HR can actually act on.
 
@@ -31,6 +40,7 @@ Equal-sampling correction improved class balance but reduced overall accuracy an
 
 `hr_attrition_workflow.knwf` — KNIME workflow: data profiling, cleaning, resampling, and model comparison
 `hr_attrition_dashboard.twbx` — Tableau workbook: attrition drivers and workforce segmentation dashboard
+
 
 ## Files
 - `hr_attrition_workflow.knwf` — KNIME workflow
