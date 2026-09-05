@@ -4,7 +4,11 @@
 **Dataset:** 15,147 property records, 41 variables
 
 ## Problem
+
+**Business problem: What property characteristics most reliably drive sale price, and how much predictive value does a flexible model add over a standard linear approach?**
 Predict property sale price from structural, locational and quality features, and compare a flexible non-linear model against a traditional linear baseline.
+
+**Capabilities demonstrated:** Regression modelling · Model diagnostics (VIF, Durbin-Watson) · Random Forest
 
 ## Approach
 1. Data cleaning: IQR-based outlier detection, log transformation of skewed variables, multicollinearity checks (VIF, Durbin-Watson).
@@ -40,3 +44,5 @@ Careful iterative model-building — testing transformations, then adding variab
 - `house-price-model.R` — full analysis script
 
 *MSc Business Analytics, Queen's University Belfast — Statistics for Business module*
+
+
