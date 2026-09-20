@@ -51,9 +51,6 @@ Specific techniques applied: volume-weighted averaging to correct sampling bias,
 ![Star schema data model](./screenshots/05-data-model.png)
 *Star-schema model — a shared Calendar dimension across all fact tables, with an explicit Machine/Product-Family bridge table built from mentor input*
 
-![Weighted OEE DAX measure](./screenshots/06-dax-weighted-oee.png)
-*The volume-weighted OEE measure — written to correct a sampling bias found in the raw data (see [`METHODOLOGY_AND_DATA_QUALITY.md`](./METHODOLOGY_AND_DATA_QUALITY.md#3-the-oee-weighting-correction))*
-
 ## Headline findings
 
 ### Moulding
