@@ -1,4 +1,4 @@
-# Data & Business Analytics Portfolio — Chandrasekhar Yammani
+# Data & Business Analytics Portfolio — Chandra Sekhar Yammani
 
 MSc Business Analytics, Queen's University Belfast (expected Sep 2026) · 10+ years enterprise financial-services experience (mainframe/transactional systems) transitioning into Data & Business Analyst roles in the UK.
 
